@@ -14,4 +14,8 @@ Program tidak akan mencetak apa-apa. kerana Kondisi i > N berarti perulangan han
 
 Program akan berjalan tanpa henti (infinite loop). kerena i-- menurunkan nilai i setiap iterasi, nilai i akan menjadi 0, -1, -2, dst yang tidak mungkin menjadi yang lebig besar dari input.
 
+## Percobaan 2 : Pertanyaan
 
+1. Perhatikan perulangan luar. Jika pada sintaks for, inisialisasi iOuter = 1 diubah menjadi iOuter = 0, apa akibatnya? Mengapa bisa demikian?
+
+Program akan mencetak (N + 1) baris bintang.karena Jika diubah jadi iOuter = 0, maka perulangan berjalan dari 0 sampai N → total N + 1 kali.
