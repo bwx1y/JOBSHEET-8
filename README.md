@@ -19,3 +19,8 @@ Program akan berjalan tanpa henti (infinite loop). kerena i-- menurunkan nilai i
 1. Perhatikan perulangan luar. Jika pada sintaks for, inisialisasi iOuter = 1 diubah menjadi iOuter = 0, apa akibatnya? Mengapa bisa demikian?
 
 Program akan mencetak (N + 1) baris bintang.karena Jika diubah jadi iOuter = 0, maka perulangan berjalan dari 0 sampai N → total N + 1 kali.
+
+2. Kembalikan program semula dimana inisialisasi iOuter = 1. Kemudian perhatikan perulangan dalam, Jika pada sintaks for, inisialisasi i = 1 diubah menjadi i = 0, apa akibatnya? Mengapa bisa demikian?
+
+Setiap baris akan mencetak (N + 1) bintang. karena Perulangan dalam (i) mengatur jumlah kolom (bintang per baris).
+
