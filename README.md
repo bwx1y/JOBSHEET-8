@@ -33,3 +33,10 @@ Setiap baris akan mencetak (N + 1) bintang. karena Perulangan dalam (i) mengatur
 
 - System.out.println(); berfungsi untuk berpindah ke baris baru setelah mencetak satu baris bintang.
 - Jika dihilangkan, maka semua bintang akan dicetak dalam satu baris panjang tanpa baris baru.
+
+## Percobaan 3 : Pertanyaan 
+
+1. perhatikan, apakah output yang dihasilkan dengan nilai N = 5 sesuai dengan tampilan berikut?
+
+tidak sesuai kerna akan di jalan mulai dari angka ke 0 hingga ke n jadi akan di jalan sebanyak n + 1
+
