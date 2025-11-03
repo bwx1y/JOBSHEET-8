@@ -6,6 +6,9 @@
 
 Program akan mencetak jumlah bintang sebanyak N + 1 kali. karena Ketika i = 0, perulangan berjalan untuk nilai i = 0 sampai i = N → total N + 1 kali (karena dimulai dari 0).
 
+2. Jika pada perulangan for, kondisi i <= N diubah menjadi i > N, apa akibatnya? Mengapa bisa demikian?
+
+Program tidak akan mencetak apa-apa. kerana Kondisi i > N berarti perulangan hanya akan berjalan jika nilai i lebih besar dari N.
 
 
 
