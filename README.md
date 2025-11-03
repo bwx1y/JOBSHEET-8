@@ -29,3 +29,7 @@ Setiap baris akan mencetak (N + 1) bintang. karena Perulangan dalam (i) mengatur
 - Perulangan luar (iOuter) mengatur jumlah baris (vertikal).
 - Perulangan dalam (i) mengatur jumlah kolom (horizontal) dalam setiap baris.
 
+4. Mengapa perlu ditambahkan sintaks System.out.println(); di bawah perulangan dalam? Apa akibatnya jika sintaks tersebut dihilangkan?
+
+- System.out.println(); berfungsi untuk berpindah ke baris baru setelah mencetak satu baris bintang.
+- Jika dihilangkan, maka semua bintang akan dicetak dalam satu baris panjang tanpa baris baru.
