@@ -40,3 +40,7 @@ Setiap baris akan mencetak (N + 1) bintang. karena Perulangan dalam (i) mengatur
 
 tidak sesuai kerna akan di jalan mulai dari angka ke 0 hingga ke n jadi akan di jalan sebanyak n + 1
 
+2. Jika tidak sesuai, bagian mana saja yang harus diperbaiki/ditambahkan? Jelaskan setiap bagian yang perlu diperbaiki/ditambahkan.
+
+ada 2 cara yaitu antara memulai dari angka 1 atau merubah kondisi while
+contoh ketika mau merubah memulai dari angka 1 ``int i = 1;``, contoh ketika mau merubdah kondisi while ``i < N.``
