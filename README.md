@@ -10,5 +10,8 @@ Program akan mencetak jumlah bintang sebanyak N + 1 kali. karena Ketika i = 0, p
 
 Program tidak akan mencetak apa-apa. kerana Kondisi i > N berarti perulangan hanya akan berjalan jika nilai i lebih besar dari N.
 
+3. Jika pada perulangan for, kondisi step i++ diubah menjadi i-- apa akibatnya? Mengapa bisa demikian?
+
+Program akan berjalan tanpa henti (infinite loop). kerena i-- menurunkan nilai i setiap iterasi, nilai i akan menjadi 0, -1, -2, dst yang tidak mungkin menjadi yang lebig besar dari input.
 
 
