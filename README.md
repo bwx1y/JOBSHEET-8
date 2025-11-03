@@ -24,3 +24,8 @@ Program akan mencetak (N + 1) baris bintang.karena Jika diubah jadi iOuter = 0, 
 
 Setiap baris akan mencetak (N + 1) bintang. karena Perulangan dalam (i) mengatur jumlah kolom (bintang per baris).
 
+3. Jadi, apakah perbedaan kegunaan antara perulangan luar dengan perulangan yang berada didalamnya?
+
+- Perulangan luar (iOuter) mengatur jumlah baris (vertikal).
+- Perulangan dalam (i) mengatur jumlah kolom (horizontal) dalam setiap baris.
+
